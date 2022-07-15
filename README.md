@@ -5,7 +5,7 @@
 
 - 👯 Também compartilho conteúdo no meu [Canal do Youtube](https://www.youtube.com/channel/UCq-Yk8MMYgs2DrbEppRz6lQ)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [bryanwesley.artstation.com](bryanwesley7.artstation.com)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [bryanwesley.artstation.com](bryanwesley.artstation.com)
 
 - 💬 Me pergunte sobre **Unity C#, Blender, ZBrush, Desenvolvimento de Jogos**
 
