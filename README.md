@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é Bryan Wesley</h1>
 <h3 align="center">Desenvolvedor de Jogos</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto **Unhearing Duel**
+- 🔭 Atualmente estou trabalhando em um projeto
 
 - 👯 Também compartilho conteúdo no meu [Canal do Youtube](https://www.youtube.com/channel/UCq-Yk8MMYgs2DrbEppRz6lQ)
 
